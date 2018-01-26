@@ -2,7 +2,7 @@
 
 A bridge from Log4J to [delight-simple-log](https://github.com/javadelight/delight-simple-log).
 
-# Usage
+## Usage
 
 Simply provide an instance of `Log4JBridge` to the Log class. 
 
